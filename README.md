@@ -1,3 +1,10 @@
+> **In the terminal:** this is the Asciiverse edition. Install and start it
+> with [av](https://asciiverse.sh): `av install rogue-sea`, then pick it in
+> av. To build it yourself: `make -f asciiverse/Makefile`, then
+> `./out/rogue-sea`. What changed, and how it runs, is in
+> [PATCHES.md](PATCHES.md); the author's permission in
+> [PERMISSION.md](PERMISSION.md).
+
 # Rogue Sea
 
 *A 7-day rogue-like turn-based raster-tiled naval-themed keyboard-controlled typescript-authored game*
